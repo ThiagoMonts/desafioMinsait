@@ -32,9 +32,9 @@ Dado o site: https://opensource-demo.orangehrmlive.com/
 Realize a criação de um novo projeto com o framework Cypress com as seguintes condições: 
 
 <ol>
-  <li>1. Crie no minimo 2 e no máximo 3 suites de testes (Arquivos de testes)</li>
+  <li>Crie no minimo 2 e no máximo 3 suites de testes (Arquivos de testes)</li>
     
-  <li>2. Crie para cada suite de teste no mínimo 2 e no máximo 4 Casos de Teste</li>
+  <li>Crie para cada suite de teste no mínimo 2 e no máximo 4 Casos de Teste</li>
 </ol>
 
 Serão avaliados:
