@@ -24,10 +24,7 @@ class Login {
     clicarNoBotaoLogin() {
         cy.get(el.botaoLogin).click()
     }
-    
-    verificarPerfil() {
-        cy.get(".oxd-userdropdown-name").should("be.visible")
-    }
+
 }
 
 export default new Login()
