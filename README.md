@@ -6,7 +6,7 @@ Resposta ao desafio proposto em sala de aula para a conclusão da Formação em 
 
 <p align="center">
   <a href="#-tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-exercício">💻 Exercício</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-desafio">💻 Desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-instalação">🔖 Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">:memo: Licença</a>
 </p>
@@ -22,14 +22,14 @@ Resposta ao desafio proposto em sala de aula para a conclusão da Formação em 
 
 Esse projeto foi desenvolvido com a seguinte tecnologia:
 
-- JavaScript
+<img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <br>
 
-## 💻 Exercício
+## 💻 Desafio
 
 Dado o site: https://opensource-demo.orangehrmlive.com/
 
-Realize a criação de um novo projeto com o framework Cypress com as seguintes condições: 
+Realize a criação de um **novo projeto** com o framework Cypress com as seguintes condições: 
 
 <ol>
   <li>Crie no minimo 2 e no máximo 3 suites de testes (Arquivos de testes)</li>
@@ -53,7 +53,14 @@ Serão avaliados:
 
 Forma da entrega
 
-<ul>Será criado no Google Class uma atividade para envio/upload do projeto em formato .zip.</ul>
+<ol>
+  <li>Será criado no Google Class uma atividade para envio/upload do projeto em formato .zip.</li>
+  <li>O aluno também pode postar o endereço do projeto em um repositório online (não esquecer de deixar público)</li>
+</ol>
+
+Retorno
+
+<ul>O retorno será feito na própria atividade no Google Class.</ul>
 
 ## 🔖 Instalação
 
