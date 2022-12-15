@@ -9,6 +9,5 @@ class Admin {
         cy.get(el.resultadoDaBusca).should('be.visible')
     }
 }
-
    
 export default new Admin()
