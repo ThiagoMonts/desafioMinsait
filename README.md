@@ -16,13 +16,13 @@ Resposta ao desafio proposto em sala de aula para a conclusão da Formação em 
 <p align="center">
   <img alt="tela de teste" src=".github/project.png" width="100%">
 </p>
-
+<br>
 
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com a seguinte tecnologia:
 
-<img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <br>
 
 ## 💻 Desafio
@@ -61,7 +61,7 @@ Forma da entrega
 Retorno
 
 <ul>O retorno será feito na própria atividade no Google Class.</ul>
-
+<br>
 ## 🔖 Instalação
 
 Cypress requer [Node.js](https://nodejs.org/) 
