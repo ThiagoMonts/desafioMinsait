@@ -3,8 +3,9 @@ const el = require('./elements').ELEMENTS
 
 class Admin {
     criarNovoAdmin() {
-        cy.get(el.admin).click()
-        cy.get(el.add).click()
+        cy.get(el.menuAdmin).click()
+        cy.get(el.botaoAdicionarAdmin).click()
+        
     }
 }
 
