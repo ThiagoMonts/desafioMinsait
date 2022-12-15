@@ -13,7 +13,7 @@ describe('Realizar Login', () => {
     Dashboard.verificarPerfil()
   })
 
-  /*it('Criar novo perfil de Administrador', () => {
-    Admin.criarNovoAdmin()
-  })*/
+  it('Buscar perfil de Administrador', () => {
+    Admin.buscarAdmin()
+  })
 })
