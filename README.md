@@ -15,6 +15,7 @@ Resposta ao desafio proposto em sala de aula para a conclusão da Formação em 
 
 <p align="center">
   <img alt="tela de teste" src=".github/project.png" width="100%">
+  <img alt="tela de teste2" src=".github/project2.png" width="100%">
 </p>
 <br>
 
@@ -62,6 +63,7 @@ Retorno
 
 <ul>O retorno será feito na própria atividade no Google Class.</ul>
 <br>
+
 ## 🔖 Instalação
 
 Cypress requer [Node.js](https://nodejs.org/) 
@@ -86,8 +88,3 @@ Esse projeto está sob a licença MIT.
 ---
 
 Desenvolvido por [Thiago Honorato](https://www.linkedin.com/in/honoratothiago/)
-
-
-
- 
-

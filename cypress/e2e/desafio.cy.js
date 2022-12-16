@@ -2,7 +2,7 @@
 import Admin from "../support/Pages/Admin"
 import Dashboard from "../support/Pages/Dashboard"
 import Login from "../support/Pages/Login"
-describe('Realizar Login', () => {
+describe('Realizar Login e buscar perfil de Administrador', () => {
 
   beforeEach(()=>{
     cy.visit("/")

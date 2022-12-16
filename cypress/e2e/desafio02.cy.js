@@ -2,7 +2,7 @@
 import Directory from "../support/Pages/Directory"
 import Login from "../support/Pages/Login"
 import Time from "../support/Pages/Time"
-describe('Buscar quadro de horários', () => {
+describe('Buscar quadro de horários e diretório', () => {
 
   beforeEach(()=>{
     cy.visit("/")
